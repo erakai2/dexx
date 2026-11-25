@@ -1,0 +1,31 @@
+h1, h2 {
+    font-family: Oswald;
+    font-weight: 500;
+}
+h1 {
+    font-size: 48px;
+    color: #a50044;
+}
+h2 {
+    font-size: 28px;
+    color: #004d98;
+}
+p {
+    font-family: Roboto;
+    font-size: 18px;
+}
+.orta video {
+    width: 640px;
+}
+.orta audio {
+    width: 50%;
+}
+.jazu {
+    font-size: 0.9em;
+    font-weight: bold;
+    text-align: center;
+    color: #555555;
+}
+.orta {
+    text-align: center;
+}
